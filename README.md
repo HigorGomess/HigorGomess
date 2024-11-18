@@ -1,6 +1,7 @@
 🚀  Olá
 
-Meu nome é Roger Ferreira. Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio, trabalho com Automação Bancária na NCR Brasil. Também sou programador FrontEnd e criador de vários repositórios com excelentes projetos.
+Meu nome é Higor Gomes. Sou estudante de Análise e Desenvolvimento de Sistemas na Uninassau, trabalho como auxiliar de mecânico. Também sou programador FrontEnd e criador de vários repositórios com excelentes projetos.
+
 
 <br>
 <br>
@@ -8,7 +9,7 @@ Meu nome é Roger Ferreira. Sou estudante de Análise e Desenvolvimento de Siste
 📱 Redes Sociais:
 
 
-<a href="https://www.instagram.com/rogerferreirar6/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insta-logo"/></a>            <a href="https://www.linkedin.com/in/rogerbferreira/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" /></a>
+<a href="https://www.instagram.com/higor.gomess/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insta-logo"/></a>            <a href="https://www.linkedin.com/in/higorgomesss/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" /></a>
 
 <br>
 <br>
@@ -21,10 +22,10 @@ Meu nome é Roger Ferreira. Sou estudante de Análise e Desenvolvimento de Siste
 <br>
 <br>
 
-!Roger Ferreira stats
+!Higor Gomes stats
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerferreiradev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-Roger Ferreira (@rogerferreirar6) • Instagram profile
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorGomess&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Higor Gomes (@higor.gomess) • Instagram profile
 0 Followers, 423 Following, 0 Posts - See Instagram photos and videos from Roger Ferreira (@rogerferreirar6)
 Imagem
