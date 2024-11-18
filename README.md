@@ -22,10 +22,3 @@ Meu nome é Higor Gomes. Sou estudante de Análise e Desenvolvimento de Sistemas
 <br>
 <br>
 
-!Higor Gomes stats
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorGomess&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-Higor Gomes (@higor.gomess) • Instagram profile
-0 Followers, 423 Following, 0 Posts - See Instagram photos and videos from Roger Ferreira (@rogerferreirar6)
-Imagem
