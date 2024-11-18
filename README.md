@@ -22,3 +22,8 @@ Meu nome é Higor Gomes. Sou estudante de Análise e Desenvolvimento de Sistemas
 <br>
 <br>
 ![Higor Gomes stats](https://github-readme-stats.vercel.app/api?username=HigorGomess&show_icons=true&theme=radical)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=HigorGomessshow_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
